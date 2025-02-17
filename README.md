@@ -1,21 +1,51 @@
-# Manage Your Appointments or Dates
+# 📅 Manage Your Appointments or Dates  
 
-This is full feature web application created in ASP.Net Web Api and React.JS to manage dates or appointments or anything similar.
+This is a **full-featured web application** built with **ASP.Net Web API** and **React.js** to manage dates, appointments, or similar scheduling needs.  
 
-### Todos before starting the app
-1. Set the correct connection string
-2. If necessary change the database name
-3. For the client app you need to install the dependencies
-    From your terminal inside the ClientApp folder, run "npm install"
-4. For the Web Api dependencies, check the necessary dependencies in NuGet package manager.
+---
 
-> _The version of Web Api dependencies has to match the version .net framework otherwise you will get error(s)._
+## 🚀 Features  
 
-#### This project was part of my YouTube tutorials so you can also watch the video on YouTube [here](https://youtu.be/EJgzPBO2juM).
+- **User-friendly** interface for managing appointments  
+- **Secure & Scalable** backend using **ASP.Net Web API**  
+- **Modern UI** built with **React.js**  
+- **Database integration** with customizable connection strings  
 
-> _Link to my YouTube Channel [https://www.youtube.com/@CodingAqyanoos](https://www.youtube.com/@CodingAqyanoos)_
+---
 
-> _Link to my website [https://aqyanoos.com](https://aqyanoos.com)_
+## 📌 Setup Guide  
+
+### 🛠️ Prerequisites  
+
+- **.NET SDK** (for ASP.Net Web API)  
+- **Node.js & npm** (for React.js frontend)  
+- **SQL Server** (or any compatible database)  
+
+---
+
+### 🔧 Backend Setup (ASP.Net Web API)  
+
+1. **Set up the database**  
+   - Configure the **connection string** in `appsettings.json`  
+   - Update the database name if necessary  
+
+2. **Install dependencies**  
+   - Open the project in **Visual Studio**  
+   - Check and install required NuGet packages  
+
+3. **Run the API**  
+   - Start the **ASP.Net Web API** project from Visual Studio  
+
+---
+
+### 🎨 Frontend Setup (React.js)  
+
+1. **Navigate to the client app folder**  
+   ```sh
+   cd ClientApp
+
+
+
 
 
 ## The landing page
